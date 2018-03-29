@@ -1,7 +1,7 @@
 # Ethereum contracts for Neureal
 
-### Ethereum standard token contracts (ERC20)
-- Neureal Token including a token sale contract (NeurealToken.sol)
+### Ethereum standard token contract (ERC20)
+- Neureal Token sale contract (NeurealToken.sol)
 
 ## Neureal Token - Token Sale Contract Information
 
