@@ -11,7 +11,7 @@
 - Decimal places: 18
 - Maximum supply: ???
 
-### NEUREAL-ECP To NEUREAL Token Conversion
+### NECP To NEUREAL Token Conversion
 
 The balances are transfered as part of the NEUREAL contract.
 
