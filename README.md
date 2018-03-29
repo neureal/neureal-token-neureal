@@ -28,7 +28,7 @@ In Ethereum Wallet / Mist, select the CONTRACTS tab and click WATCH TOKEN to ope
 
 In Ethereum Wallet / Mist, select the CONTRACTS tab and click WATCH CONTRACT to open the Watch contract window. Then:
 
-- Under CONTRACT NAME, enter Neureal Early Contributor Points
+- Under CONTRACT NAME, enter Neureal Token
 - Under CONTRACT ADDRESS, enter 
 - Copy the Standard ERC20 Application Binary Interface below and paste it into the JSON INTERFACE text box
 
